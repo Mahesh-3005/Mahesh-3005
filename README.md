@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahesh Mahadik Mahesh Ramchandra
+# Hi 👋, I'm Mahesh Mahadik
 
 ### Full Stack Developer | Flutter | Angular | Node.js | REST APIs | Supabase | Building scalable Mobile & Web Applications
 
