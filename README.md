@@ -2,9 +2,15 @@
 
 ### Full Stack Developer | Flutter | Angular | Node.js | REST APIs | Supabase | Building scalable Mobile & Web Applications
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahesh-3005&label=Profile views&color=0e75b6&style=flat" alt="Mahesh-3005" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mahesh-3005&label=Profile%20views&color=0e75b6&style=flat" alt="Mahesh-3005" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mahesh-3005" alt="Mahesh-3005" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Mahesh-3005" alt="Mahesh-3005" />
+  </a>
+</p>
 
 - 🔭 I'm currently working on **MilkMate - a dairy management system with Flutter & Supabase  **
 
